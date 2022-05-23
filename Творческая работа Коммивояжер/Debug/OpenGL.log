@@ -1,0 +1,18 @@
+﻿  OpenGL.cpp
+C:\Users\Аня\source\repos\OpenGL\graph.h(471,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Аня\source\repos\OpenGL\graph.h(547,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Аня\source\repos\OpenGL\graph.h(302,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Аня\source\repos\OpenGL\graph.h(301): message : во время компиляции функции-члена класс шаблон "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Аня\source\repos\OpenGL\graph.h(364): message : выполняется компиляция ссылки на экземпляр шаблон функции "int Graph<int>::GetVertPos(const T &)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Аня\source\repos\OpenGL\graph.h(313): message : во время компиляции функции-члена класс шаблон "Graph<int>::Graph(void)"
+C:\Users\Аня\source\repos\OpenGL\graph.h(57): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph<int>::Graph(void)"
+C:\Users\Аня\source\repos\OpenGL\graph.h(57): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  OpenGL.vcxproj -> C:\Users\Аня\source\repos\OpenGL\Debug\OpenGL.exe
